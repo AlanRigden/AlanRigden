@@ -3,7 +3,7 @@
 I'm Alan Rigden
 
 - 📫 How to reach me: alanrigden123@gmail.com
-- 🌱 I’m currently learning Flask - a python webframe work
+- 🌱 I’m currently learning stats for data science
 
 <!--
 **AlanRigden/AlanRigden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
